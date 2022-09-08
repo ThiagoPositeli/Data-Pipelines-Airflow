@@ -20,6 +20,7 @@ The source data resides in S3 and needs to be processed in Sparkify's data wareh
 
 
 <h3>Dag</h3>
+<img width="801" alt="Captura de Tela 2022-09-08 às 16 23 54" src="https://user-images.githubusercontent.com/92527247/189209747-a08c0d0d-4899-4ddb-8a5f-fc6118b5c6c4.png">
 
 
 <h3>Database</h3>
